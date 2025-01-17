@@ -1,0 +1,13 @@
+Public IP Address: #removed
+Processor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: ritz
+Private IP Address: #removed
+
+Public IP Address: #removed
+Processor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: ritz
+Private IP Address: #removed
